@@ -4,4 +4,5 @@ Now user can simply Enter their Search and page number and get desired result.
 
 //These are simple stuff.. iam just learning Python
 
-These Programs are designed by Siddharth M of CSE-CUCEK.
+
+Copyright© Designed by SIDDHARTH.M, CSE-CUSAT (2016-2020 batch)
